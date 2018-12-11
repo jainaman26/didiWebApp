@@ -191,7 +191,6 @@ function resize() {
   if (fontSize > 100) fontSize = 100;
   yOffset = height*0.6 - (fontSize/2);
   renderer.resize(width, height);
-  resizeText();
   sampleCanvas();
 }
 
