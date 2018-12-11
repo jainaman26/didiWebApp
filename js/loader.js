@@ -179,7 +179,7 @@ function resizeText() {
   
   creations.style.fontSize = fontSize+'px';
   creations.style.height = fontSize+'px';
-  creations.style.marginTop = -(fontSize/2)+'px';
+  creations.style.marginTop = 30+'px';
 }
 
 window.addEventListener('resize', resize);
