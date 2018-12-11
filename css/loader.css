@@ -28,15 +28,24 @@ div, canvas {
   z-index: 200;
 }
 
-.text {
-  width: 100%;
-  text-align: center;
-  z-index: 10;
-  text-shadow:
-   -5px -5px 0 #1a1a1a,  
-    5px -5px 0 #1a1a1a,
-    -5px 5px 0 #1a1a1a,
-     5px 5px 0 #1a1a1a;
-  top: 48%;
-  opacity: 0.9
+#arihant {
+    font-size: 68.32px;
+    height: 135%;
+    margin-top: -34.16px;
+    width: 130%;
+    text-align: center;
+    z-index: 10;
+    text-shadow: -5px -5px 0 #1a1a1a, 5px -5px 0 #1a1a1a, -5px 5px 0 #1a1a1a, 5px 5px 0 #1a1a1a;
+    top: 48%;
+}
+
+#creations {
+    font-size: 68.32px;
+    height: 135%;
+    margin-top: -34.16px;
+    width: 130%;
+    text-align: center;
+    z-index: 10;
+    text-shadow: -5px -5px 0 #1a1a1a, 5px -5px 0 #1a1a1a, -5px 5px 0 #1a1a1a, 5px 5px 0 #1a1a1a;
+    top: 48%;
 }
