@@ -175,11 +175,11 @@ function sampleCanvas() {
 function resizeText() {
   arihant.style.fontSize = fontSize+'px';
   arihant.style.height = fontSize+'px';
-  arihant.style.marginTop = -(fontSize/2)+'px';
+//   arihant.style.marginTop = -(fontSize/2)+'px';
   
   creations.style.fontSize = fontSize+'px';
   creations.style.height = fontSize+'px';
-  creations.style.marginTop = 30+'px';
+//   creations.style.marginTop = 30+'px';
 }
 
 window.addEventListener('resize', resize);
