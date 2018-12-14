@@ -146,7 +146,7 @@ function initCanvas() {
 function sampleCanvas() {
   textCanvas.style.width = width + 'px';
   textCanvas.style.height = fontSize + 'px';
-  textCanvas.style.marginTop = -(fontSize/2) + 'px';
+  textCanvas.style.marginTop = 40%;
   textCanvas.width = width;
   textCanvas.height = fontSize;
   textCtx.textAlign = 'center';
