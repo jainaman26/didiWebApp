@@ -22,10 +22,10 @@ div, canvas {
 }
 
 #arihant {
-    font-size: 68.32px;
+    font-size: 50px;
     height: 135%;
     margin-top: 0px;
-    width: 130%;
+    width: 100%;
     text-align: center;
     z-index: 10;
     text-shadow: -5px -5px 0 #1a1a1a, 5px -5px 0 #1a1a1a, -5px 5px 0 #1a1a1a, 5px 5px 0 #1a1a1a;
@@ -33,10 +33,10 @@ div, canvas {
 }
 
 #creations {
-    font-size: 68.32px;
+    font-size: 50px;
     height: 135%;
     margin-top: 60px;
-    width: 130%;
+    width: 100%;
     text-align: center;
     z-index: 10;
     text-shadow: -5px -5px 0 #1a1a1a, 5px -5px 0 #1a1a1a, -5px 5px 0 #1a1a1a, 5px 5px 0 #1a1a1a;
