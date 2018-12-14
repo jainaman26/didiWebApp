@@ -55,7 +55,7 @@ function createStar(text) {
 }
 
 function createGlow() {
-  var glow = new PIXI.Sprite(PIXI.Texture.fromImage('https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/glow-star.png'));
+  var glow = new PIXI.Sprite(PIXI.Texture.fromImage('img/glow-star.png'));
   var size = 2 + Math.random()*14;
   glow.width = size;
   glow.height = size;
